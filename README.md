@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @martatenesferrer
+- 🏡 I live in Burriana, Castellón, Spain 🇪🇸
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently continuos learning iOS & Android
 - 📫 How to reach me martatenes@playtomic.io
